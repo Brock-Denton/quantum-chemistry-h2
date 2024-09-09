@@ -1,0 +1,4 @@
+openfermion
+openfermionpyscf
+matplotlib
+pyscf
