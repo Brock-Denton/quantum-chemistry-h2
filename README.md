@@ -9,4 +9,4 @@ This project calculates and visualizes the ground state energy of the H₂ molec
    pip install -r requirements.txt
 3. Open the Jupyter Notebook: jupyter notebook hartree_fock_h2.ipynb
 
-![H₂ Energy Plot]("images/image.png)
+![H₂ Energy Plot](image.png)
